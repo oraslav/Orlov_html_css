@@ -1,0 +1,53 @@
+body{
+    background-color: #b7fd87;
+}
+
+p{
+    color: #bf41e6;
+    font-size: 20px;
+    font-family: Calibri;
+     text-align: center;
+}
+
+i{
+    color: #bf41e6;
+    font-size: 20px;
+    font-family: Calibri;
+}
+
+a{
+    color: rgb(255, 0, 43);
+}
+
+li{
+    color: #d14e4e;
+    font-size: 20px;
+}
+
+h2{
+    font-size: 30px;
+    font-family: Calibri;
+}
+
+h1{
+    font-size: 40px;
+    font-family: Calibri;
+    text-align: center;
+}
+
+
+.img1{
+    width: 400px;
+    height: 300px;
+}
+
+.img2{
+    width: 500px;
+    height: 300px;
+}
+
+.ob{
+    font-size: 30px;
+    font-family: Calibri;
+    text-align: center;
+}
